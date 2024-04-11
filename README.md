@@ -18,7 +18,7 @@ This is a Spring Boot application that provides endpoints to retrieve weather fo
 1. Clone the repository:
 
    ```
-   git clone https://github.com/your-username/weather-api.git
+   git clone https://github.com/Snehal-Salvi/weather-api
    ```
 
 2. Navigate to the project directory:
